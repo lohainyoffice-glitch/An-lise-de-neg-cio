@@ -1,0 +1,1 @@
+O objetivo do projeto foi auxiliar a empresa Y.afisha na otimização dos gastos com marketing. Para isso, foram analisados o comportamento dos utilizadores, o momento em que iniciam as compras, o valor gerado por cada cliente e o período necessário para que os investimentos fossem recuperados.
